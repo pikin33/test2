@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "images-rngu",
+        "S3Key": "nfs.ova"
+    }
+}
+]
